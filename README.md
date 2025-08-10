@@ -1,16 +1,15 @@
-# CSE423-project-Tank-Wars
-Its is a 3D game created using openGL for my computer Graphics course.
-Got it — I’ve read through your existing `README.md`, `3D_template.py`, and `base.py`.
-I’ll now write you a **professional GitHub-style README** that expands on your current one, explaining the project in detail, including installation, features, controls, and gameplay mechanics.
 
----
+3D Tank Battle in Python & OpenGL – Player vs AI with projectiles, explosions, and smart enemy AI
 
-# README.md (for GitHub)
+
+Tank Wars – A 3D Python & OpenGL battle game** where you command a blue tank against an AI-driven red tank. Featuring real-time projectile physics, health bars, explosions, and smart enemy movement. Built for the CSE423 Computer Graphics course.
+
+
 
 ````markdown
-# 🚀 Tank Wars – CSE423 Project
 
-**Tank Wars** is a 3D tank battle game built with **Python** and **OpenGL**, developed as part of the CSE423 Computer Graphics course.  
+
+It is a 3D tank battle game built with **Python** and **OpenGL**, developed as part of the CSE423 Computer Graphics course.  
 The game features **player-vs-AI combat**, realistic projectile physics, health bars, explosions, and obstacle-aware enemy AI.
 
 ---
